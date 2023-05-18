@@ -76,7 +76,7 @@ Cyber AI-Waife 包含了一下两个核心组成部分：
 <img src="https://pic2.imgdb.cn/item/6466012e0d2dde57773f4754.jpg" height=300>
 
 1. 普通模式：和普通的ChatGPT一样进行文字交流
-2. 赛博模式：有一个可爱的原创Live2D角色: [Huusyako](http://localhost:4000/2021/09/13/Live2D%E5%A4%84%E5%A5%B3%E4%BD%9C-%E9%A3%8E%E8%BD%A6%E5%AD%90/) 能与你语音聊天。
+2. 赛博模式：有一个可爱的原创Live2D角色: [Huusyako](https://www.panzer-jack.cn/2021/09/13/Live2D%E5%A4%84%E5%A5%B3%E4%BD%9C-%E9%A3%8E%E8%BD%A6%E5%AD%90/) 能与你语音聊天。
 
 
 ## 角色设定
