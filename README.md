@@ -71,6 +71,8 @@ _✨ 基于 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) + [VITS-fast-fine-
 
 <img src="https://github.com/Panzer-Jack/Cyber_AI-Waife/assets/81006731/ac80edfa-c681-4f01-a59e-48b5804ff253" height=500>
 
+Cyber AI-Waife 包含了一下两个核心组成部分：
+
 <img src="https://pic2.imgdb.cn/item/6466012e0d2dde57773f4754.jpg" height=300>
 
 1. 普通模式：和普通的ChatGPT一样进行文字交流
