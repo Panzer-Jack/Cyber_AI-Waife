@@ -116,5 +116,9 @@ Cyber AI-Waife 包含了一下两个核心组成部分：
 ### 主页面
 <img src="https://pic2.imgdb.cn/item/64660a770d2dde577749fd1b.jpg">
 
+## 相关连接：
+1. QQ 群聊美少女语音AI（ChatGPT 版本）：[ChatGPT_VITS_For_QQ-Rob](https://github.com/Panzer-Jack/ChatGPT_VITS_For_QQ-Rob)
+2. QQ 群聊美少女语音AI（ChatGLM 本地化版本）：[ChatGLM_VITS_For_QQ-Rob](https://github.com/Panzer-Jack/ChatGLM_VITS_For_QQ-Rob) 
+
 ## 总结
 Cyber AI-Waife 这个项目本身也是受到了 一部叫做《命运石之门0》的动漫的影响，突然让我灵感而发。。加上近期流行的ChatGPT 热潮让我总想发我自我做一下 有趣的 (无用的) 开源小发明（小垃圾）。嘛，兴趣是最好的动力，特别是那些有趣的小东西，总是能让人废寝忘食。
