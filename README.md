@@ -91,15 +91,6 @@ Cyber AI-Waife 包含了一下两个核心组成部分：
 ```
 
 ## 预览
-### 注册
-<img src="https://pic2.imgdb.cn/item/64660a760d2dde577749fbc9.jpg">
-
-### 登录
-<img src="https://pic2.imgdb.cn/item/64660a760d2dde577749fb9c.jpg">
-
-### 主页面
-<img src="https://pic2.imgdb.cn/item/64660a770d2dde577749fd1b.jpg">
-
 ### 控制台
 <img src="https://pic2.imgdb.cn/item/64660a770d2dde577749fcd9.jpg">
 
@@ -109,6 +100,15 @@ Cyber AI-Waife 包含了一下两个核心组成部分：
 ### 赛博模式
 看起来是不是非常有 可爱的 赛博女友 的味道（喜）
 <img src="https://pic2.imgdb.cn/item/64660a770d2dde577749fc00.jpg">
+
+### 注册
+<img src="https://pic2.imgdb.cn/item/64660a760d2dde577749fbc9.jpg">
+
+### 登录
+<img src="https://pic2.imgdb.cn/item/64660a760d2dde577749fb9c.jpg">
+
+### 主页面
+<img src="https://pic2.imgdb.cn/item/64660a770d2dde577749fd1b.jpg">
 
 ## 总结
 Cyber AI-Waife 这个项目本身也是受到了 一部叫做《命运石之门0》的动漫的影响，突然让我灵感而发。。加上近期流行的ChatGPT 热潮让我总想发我自我做一下 有趣的 (无用的) 开源小发明（小垃圾）。嘛，兴趣是最好的动力，特别是那些有趣的小东西，总是能让人废寝忘食。
