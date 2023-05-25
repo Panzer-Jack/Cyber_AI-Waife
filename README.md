@@ -59,6 +59,7 @@ _✨ 基于 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) + [VITS-fast-fine-
 
 - 网站地址：http://cyber-ai-waife.panzer-jack.cn/
 - 开源地址：https://github.com/Panzer-Jack/Cyber_AI-Waife
+- （ 开发完善中ing ）
 
 ---
 
