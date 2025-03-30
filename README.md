@@ -56,7 +56,7 @@ _✨ 基于 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) + [VITS-fast-fine-
 </div>
 
 ---
-PS：因为之前写的东西有点老了，准备计划重构中。。。
+## PS：因为之前写的东西有点老了，准备计划重构中。。。
 
 **核心技术栈**：Vue3、Flask、PHP-FPM、VITS、ChatGLM-6B、pixi-live2d-display 、Type.js、MySQL、Redis、Axios、Vuex 、Element-Plus、less、WebSocket、flask-restful、Nginx等
 
