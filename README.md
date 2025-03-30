@@ -56,6 +56,8 @@ _✨ 基于 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) + [VITS-fast-fine-
 </div>
 
 ---
+PS：因为之前写的东西有点老了，准备计划重构中。。。
+
 **核心技术栈**：Vue3、Flask、PHP-FPM、VITS、ChatGLM-6B、pixi-live2d-display 、Type.js、MySQL、Redis、Axios、Vuex 、Element-Plus、less、WebSocket、flask-restful、Nginx等
 
 **项目描述**：一个会说话会动的Live2D美少女 AI。项目基于 ChatGLM-6B 开源模型以及 VITS 语音推理模型 为核心, 以 Flask 后端框架为后台，利用PS和Live2D Cubism来设计建模角色，并以Vue3 以及 pixi-live2d-display 为前端核心进行开发。该项目提供2个核心模式：普通模式：和普通的ChatGPT一样进行文字交流。赛博模式：有一个可爱的原创动态·Live2D角色: Huusyako 能与你语音聊天。
