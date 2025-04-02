@@ -58,7 +58,7 @@ _✨ 基于 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) + [VITS-fast-fine-
 ---
 ## PS：因为之前写的东西有点老了，准备计划重构中。。。
 
-**上线地址**：http://cyber-ai-waife.panzer-jack.cn/    ( 开发完善中ing )
+**上线地址**：http://cyber-ai-waife.panzer-jack.cn/    ( 撤下来 重构ing )
 
 **视频演示**：https://www.bilibili.com/video/BV1Pw411z7mZ/
 
