@@ -66,7 +66,7 @@ _✨ 基于 [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) + [VITS-fast-fine-
 
 没错，你可以的！
 
-只需要使用这个通用SDK：[easy-live2d-ai](https://github.com/Panzer-Jack/Cyber_AI-Waife-SDK) 你就能将你的老婆随意接入到任何应用里！！
+只需要使用这个通用SDK：[easy-live2d-ai](https://github.com/Panzer-Jack/easy-live2d-ai) 你就能将你的老婆随意接入到任何应用里！！
 
 ---
 
